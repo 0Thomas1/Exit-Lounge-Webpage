@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body{
+    font-family: 'Playfair Display', serif;
+}
+ #logo{
+    border-radius: 50%;
+    margin-top: 200px;
+    margin-bottom: 240px;
+
+ }
