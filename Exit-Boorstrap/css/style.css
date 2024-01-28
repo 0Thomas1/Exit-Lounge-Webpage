@@ -1,16 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&display=swap');
 html{
     scroll-padding-top: 7rem;
-
+}
+#reservation_btn{
+    font-style: italic;
 }
 body{
     font-family: 'Playfair Display', serif;
 }
  #logo{
-    
+    width: min-content;
     border-radius: 50%;
-    margin-top: 200px;
-    margin-bottom: 240px;
+    margin-top: 150px;
+    margin-bottom: 30px;
 
  }
 .icon_bg{
