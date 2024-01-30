@@ -8,6 +8,9 @@ html{
 body{
     font-family: 'Playfair Display', serif;
 }
+nav{
+    opacity:0.9;
+}
 #about h2{
     font-family: 'Libre Bodoni', serif;
     font-style: italic;
