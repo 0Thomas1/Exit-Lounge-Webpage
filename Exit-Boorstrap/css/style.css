@@ -9,7 +9,7 @@ body{
     font-family: 'Playfair Display', serif;
 }
  #logo{
-    width: min-content;
+    max-width: 100%;
     border-radius: 50%;
     margin-top: 150px;
     margin-bottom: 30px;
@@ -20,9 +20,7 @@ body{
     width: 40px;
     border-radius: 50%;
 }
-.imgFrame{
-   
-}
+
 .imgFrame img{
     width: 100%;
     height: 100%;
